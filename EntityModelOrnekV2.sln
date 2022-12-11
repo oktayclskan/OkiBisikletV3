@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityModelOrnekV2", "EntityModelOrnekV2\EntityModelOrnekV2.csproj", "{B0394DBD-E6AA-4DB5-9DE1-62AA8F7AEB78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeriTabaniIslem", "VeriTabaniIslem\VeriTabaniIslem.csproj", "{172A0CEC-D19C-4EB8-AB0A-23BBBD76DF56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0394DBD-E6AA-4DB5-9DE1-62AA8F7AEB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0394DBD-E6AA-4DB5-9DE1-62AA8F7AEB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0394DBD-E6AA-4DB5-9DE1-62AA8F7AEB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0394DBD-E6AA-4DB5-9DE1-62AA8F7AEB78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{172A0CEC-D19C-4EB8-AB0A-23BBBD76DF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172A0CEC-D19C-4EB8-AB0A-23BBBD76DF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172A0CEC-D19C-4EB8-AB0A-23BBBD76DF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172A0CEC-D19C-4EB8-AB0A-23BBBD76DF56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {314997BA-0C77-4CCC-B3D5-32FBCCC6EF12}
+	EndGlobalSection
+EndGlobal
