@@ -14,10 +14,10 @@ namespace VeriTabaniIslem
 
         public DataModel()
         {
-            con = new SqlConnection(ConnectionStrings.ConStr);
+            con = new SqlConnection(ConnectionStrings.LConStr);
             cmd = con.CreateCommand();
         }
-        decimal toplamı = 0;
+        
         public bool KategoriEkle(Kategoriler k)
         {
             try

@@ -22,3 +22,9 @@ C:\Users\Samsung\Documents\GitHub\EntityModel-main\VeriTabaniIslem\obj\Debug\Ver
 C:\Users\Samsung\Documents\GitHub\EntityModel-main\VeriTabaniIslem\obj\Debug\VeriTabaniIslem.csproj.CoreCompileInputs.cache
 C:\Users\Samsung\Documents\GitHub\EntityModel-main\VeriTabaniIslem\obj\Debug\VeriTabaniIslem.dll
 C:\Users\Samsung\Documents\GitHub\EntityModel-main\VeriTabaniIslem\obj\Debug\VeriTabaniIslem.pdb
+C:\Users\Oktay\Documents\GitHub\OkiBisikletV3\VeriTabaniIslem\bin\Debug\VeriTabaniIslem.dll
+C:\Users\Oktay\Documents\GitHub\OkiBisikletV3\VeriTabaniIslem\bin\Debug\VeriTabaniIslem.pdb
+C:\Users\Oktay\Documents\GitHub\OkiBisikletV3\VeriTabaniIslem\obj\Debug\VeriTabaniIslem.csproj.AssemblyReference.cache
+C:\Users\Oktay\Documents\GitHub\OkiBisikletV3\VeriTabaniIslem\obj\Debug\VeriTabaniIslem.csproj.CoreCompileInputs.cache
+C:\Users\Oktay\Documents\GitHub\OkiBisikletV3\VeriTabaniIslem\obj\Debug\VeriTabaniIslem.dll
+C:\Users\Oktay\Documents\GitHub\OkiBisikletV3\VeriTabaniIslem\obj\Debug\VeriTabaniIslem.pdb
